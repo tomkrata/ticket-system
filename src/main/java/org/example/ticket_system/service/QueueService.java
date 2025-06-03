@@ -1,6 +1,5 @@
 package org.example.ticket_system.service;
 
-import org.example.ticket_system.model.AbstractEntity;
 import org.example.ticket_system.model.TicketEntity;
 import org.example.ticket_system.model.response.TicketResponse;
 import org.springframework.stereotype.Service;
